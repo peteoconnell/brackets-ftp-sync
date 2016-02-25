@@ -1,9 +1,9 @@
 {
-    "name": "ftp-sync-custom",
+    "name": "Pete",
     "title": "FTP-Sync Custom",
     "description": "FTP/SFTP upload for Brackets",
     "homepage": "https://github.com/peteoconnell/brackets-ftp-sync",
-    "version": "2.0.5.1",
+    "version": "1.0.0",
     "author": "Tim Burgess (https://github.com/timburgess) - Customised Pete OConnell (https://github.com/peteoconnell)",
     "engines": {
         "brackets": ">=1.1.0"
