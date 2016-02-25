@@ -1,9 +1,9 @@
 {
-  "name": "FTP-Sync",
-  "version": "2.0.5",
+  "name": "FTP-Sync-Custom",
+  "version": "2.0.5.1",
   "repository": {
     "type": "git",
-    "url": "http://github.com/timburgess/ftp-sync.git"
+    "url": "http://github.com/peteoconnell/brackets-ftp-sync.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
